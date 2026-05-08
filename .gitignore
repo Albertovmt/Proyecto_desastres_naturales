@@ -1,0 +1,15 @@
+# Python - Archivos compilados
+__pycache__/
+*.pyy
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Entornos virtuales
+.env
+
+# Configuración de Editores
+.vscode/
+
+# Sistema Operativo
+.DS_Store
